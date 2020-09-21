@@ -1,0 +1,23 @@
+{
+    "cursos":[
+            {
+                "id":1,
+                "titulo":"React desde cero",
+                "imagen":"https://edteam-media.s3.amazonaws.com/courses/medium/f0b3c8c9-c922-4839-ae4e-4152b8b43c44.png",
+                "precio":"100",
+                "profesor":"3000"
+            },{
+                "id":2,
+                "titulo":"git desde cero",
+                "imagen":"https://edteam-media.s3.amazonaws.com/courses/small/262e68b3-eea2-43f2-9e9a-febc106a8295.png",
+                "precio":"10052",
+                "profesor":"300440"   
+            },{
+                "id":3,
+                "titulo":"realidad virtual desde cero",
+                "imagen":"https://edteam-media.s3.amazonaws.com/courses/small/47766c2e-6ef7-40a9-8c92-50939fe9bfd0.png",
+                "precio":"100",
+                "profesor":"300022"
+            }
+            ]
+}
